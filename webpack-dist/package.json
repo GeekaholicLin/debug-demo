@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.2"
+  }
+}
